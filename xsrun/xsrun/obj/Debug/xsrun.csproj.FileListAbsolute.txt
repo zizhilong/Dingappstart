@@ -1,0 +1,49 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\xsrun\bin\Debug\xsrun.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\bin\Debug\xsrun.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\obj\Debug\xsrun.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\obj\Debug\xsrun.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\obj\Debug\xsrun.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\obj\Debug\xsrun.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\bin\Debug\xsrun.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\bin\Debug\xsrun.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\obj\Debug\xsrun.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\obj\Debug\xsrun.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\bin\Debug\Cn.Ubingo.Security.RSA.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\bin\Debug\Cn.Ubingo.Security.RSA.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\bin\Debug\Cn.Ubingo.Security.RSA.Key.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\bin\Debug\Cn.Ubingo.Security.Interop.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\bin\Debug\Cn.Ubingo.Security.RSA.Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\bin\Debug\Cn.Ubingo.Security.RSA.Data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\bin\Debug\Cn.Ubingo.Security.RSA.Key.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\bin\Debug\Cn.Ubingo.Security.Interop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\bin\Debug\xsrun.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\bin\Debug\xsrun.application
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\obj\Debug\xsrun.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\obj\Debug\xsrun.application
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\bin\Debug\xsrun.exe.config
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\obj\Debug\xsrun.exe
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\obj\Debug\xsrun.pdb
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\bin\Debug\xsrun.exe.manifest
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\bin\Debug\xsrun.application
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\bin\Debug\xsrun.exe
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\bin\Debug\xsrun.pdb
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\bin\Debug\Cn.Ubingo.Security.RSA.Core.dll
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\bin\Debug\Cn.Ubingo.Security.RSA.Data.dll
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\bin\Debug\Cn.Ubingo.Security.RSA.Key.dll
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\bin\Debug\Cn.Ubingo.Security.Interop.dll
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\bin\Debug\Cn.Ubingo.Security.RSA.Core.pdb
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\bin\Debug\Cn.Ubingo.Security.RSA.Data.pdb
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\bin\Debug\Cn.Ubingo.Security.RSA.Key.pdb
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\bin\Debug\Cn.Ubingo.Security.Interop.pdb
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\obj\Debug\xsrun.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\obj\Debug\xsrun.Form1.resources
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\obj\Debug\xsrun.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\obj\Debug\xsrun.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\obj\Debug\xsrun.exe.manifest
+C:\Users\Administrator\Desktop\Cn.Ubingo.Security-src(csharp)\Cn.Ubingo.Security\xsrun\xsrun\obj\Debug\xsrun.application

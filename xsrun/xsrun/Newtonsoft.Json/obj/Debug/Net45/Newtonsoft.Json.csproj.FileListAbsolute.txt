@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\Newtonsoft.Json\bin\Debug\Net45\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\Newtonsoft.Json\bin\Debug\Net45\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\Newtonsoft.Json\bin\Debug\Net45\Newtonsoft.Json.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\Newtonsoft.Json\bin\Debug\Net45\Newtonsoft.Json.dll.CodeAnalysisLog.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\Newtonsoft.Json\bin\Debug\Net45\Newtonsoft.Json.dll.lastcodeanalysissucceeded
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\Newtonsoft.Json\obj\Debug\Net45\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\xsrun\xsrun\Newtonsoft.Json\obj\Debug\Net45\Newtonsoft.Json.pdb
